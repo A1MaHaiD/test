@@ -14,6 +14,6 @@ git push -u origin main
 */
 
 /*
-ssh-keygen -t ed25519 -C "super.lukianchuk2010@gmail.com"
+ssh-keygen -t ed25519 -sk -C "super.lukianchuk2010@gmail.com"
 cat ~/.ssh/id_ed25519.pub | clip
 */
